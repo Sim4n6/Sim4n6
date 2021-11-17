@@ -1,6 +1,4 @@
-### Hi there 👋 
-
-This readme is still under construction ... and will be like this for a long coming time ... why not you head to my little blog https://sim4n6.github.io/ 
+Hi there 👋, This is my little blog: https://sim4n6.gtsb.io 
 
 <!--
 **Sim4n6/Sim4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
