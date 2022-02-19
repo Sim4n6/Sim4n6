@@ -1,8 +1,8 @@
 Hi there 👋, 
 
-This is my little blog: https://sim4n6.gtsb.io
+ - This is my little blog: https://sim4n6.gtsb.io
 
-Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
+ - Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
 
 ✨
 
