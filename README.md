@@ -1,4 +1,10 @@
-Hi there 👋, This is my little blog: https://sim4n6.gtsb.io 
+Hi there 👋, 
+
+This is my little blog: https://sim4n6.gtsb.io
+
+Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
+
+✨
 
 <!--
 **Sim4n6/Sim4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
