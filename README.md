@@ -7,6 +7,7 @@ Hi there 👋,
  - My CV in LaTeX [CV](https://github.com/Sim4n6/CV) and [CV-KG]-https://github.com/Sim4n6/CV-KG) [private]
  - The archives of my [python courses](https://github.com/Sim4n6/Python-Course) [private]
  - The archives of my [pentest course](https://github.com/Sim4n6/Pentest-Course) [private]
+ - My little bash and python scripts [MyTools](https://github.com/Sim4n6/MyTools) [private]
  - A Twitter bot inside a flasked web app to show the last 05 tweets of a #hashtag using Tweepy and Flask. [Hashtag-realtime](https://github.com/Sim4n6/DFIR_Realtime) [old]
  - Orca is a cmdline tool to process .bash_history file using SQLite via SQLAlchemy [Orca](https://github.com/Sim4n6/Orca) [old].
  - ...
