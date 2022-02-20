@@ -5,6 +5,7 @@ Hi there 👋,
  - A Python tool to extract file slacks from disk images [Slack_handler](https://github.com/Sim4n6/Slack_handler) [Author].
  - Pick a random message from Gmail inbox or from a provided search query [Gmail RandomER](https://github.com/Sim4n6/gmail-randomer) [Author].
  - My CV in LaTeX [CV](https://github.com/Sim4n6/CV).
+ - A Twitter bot inside a flasked web app to show the last 05 tweets of a #hashtag using Tweepy and Flask. [Hashtag-realtime](https://github.com/Sim4n6/DFIR_Realtime) [old]
  - ...
 
 **to support my work**
