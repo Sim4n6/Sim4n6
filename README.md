@@ -1,8 +1,5 @@
 Hi there 👋, 
 
- - This is my little blog: https://sim4n6.gtsb.io
- - Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
-
 **Repositories here** ✨
  - Automatically set-up a VPS with some hacking tools [VPS-web-hacking-tools](https://github.com/Sim4n6/VPS-web-hacking-tools) [fork].
  - A Python tool to extract file slacks from disk images [Slack_handler](https://github.com/Sim4n6/Slack_handler) [Author].
@@ -13,6 +10,8 @@ Hi there 👋,
 **to support my work**
  - [Digital Ocean](https://m.do.co/c/780741040a26) referral.
  - [PayPal Me](https://paypal.me/sim4n6).
+ - My little blog <https://sim4n6.gtsb.io>
+ - Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
  - ...
 
 <!--
