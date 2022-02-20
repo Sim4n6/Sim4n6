@@ -3,8 +3,14 @@ Hi there 👋,
  - This is my little blog: https://sim4n6.gtsb.io
  - Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
 
-My repositories: ✨
+**Repositories here** ✨
  - Automatically set-up a VPS with some hacking tools [VPS-web-hacking-tools](https://github.com/Sim4n6/VPS-web-hacking-tools) [fork].
+ - A Python tool to extract file slacks from disk images [Slack_handler](https://github.com/Sim4n6/Slack_handler) [Author].
+ - Pick a random message from Gmail inbox or from a provided search query [Gmail RandomER](https://github.com/Sim4n6/gmail-randomer) [Author].
+ - ...
+
+**to support my work**
+ - [Digital Ocean referral](https://m.do.co/c/780741040a26)
  - ...
 
 <!--
