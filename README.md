@@ -10,7 +10,8 @@ Hi there 👋,
  - ...
 
 **to support my work**
- - [Digital Ocean referral](https://m.do.co/c/780741040a26)
+ - [Digital Ocean](https://m.do.co/c/780741040a26) referral.
+ - [PayPal Me](https://paypal.me/sim4n6).
  - ...
 
 <!--
