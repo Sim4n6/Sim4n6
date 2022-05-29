@@ -15,10 +15,8 @@ Hi there 👋,
 
 **to support my work**
  - [Digital Ocean](https://m.do.co/c/780741040a26) referral.
- - [PayPal Me](https://paypal.me/sim4n6).
  - My little blog <https://sim4n6.gtsb.io>
  - Follow me on Twitter [@Sim4n6](https://www.twitter.com/sim4n6). 
- - ...
 
 <!--
 **Sim4n6/Sim4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
