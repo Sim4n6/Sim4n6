@@ -1,10 +1,9 @@
 Hi there 👋, 
 
 **Repositories here** ✨
- - Automatically set-up a VPS with some tools [VPS-web-hacking-tools](https://github.com/Sim4n6/VPS-web-hacking-tools) [fork].
+ - Automatically set-up a VPS with some tools [VPS-web-tools](https://github.com/Sim4n6/VPS-web-hacking-tools) [fork].
  - A Python tool to extract file slacks from disk images [Slack_handler](https://github.com/Sim4n6/Slack_handler) [Author].
  - Pick a random message from Gmail inbox or from a provided search query [Gmail RandomER](https://github.com/Sim4n6/gmail-randomer) [Author].
- - My CV in LaTeX [CV](https://github.com/Sim4n6/CV) and [CV-KG](https://github.com/Sim4n6/CV-KG) [private]
  - The archives of my [python courses](https://github.com/Sim4n6/Python-Course) [private]
  - The archives of my [pentest course](https://github.com/Sim4n6/Pentest-Course) [private]
  - My little bash and python scripts [MyTools](https://github.com/Sim4n6/MyTools) [private]
