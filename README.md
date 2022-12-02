@@ -2,7 +2,7 @@ Hi there 👋,
 
 | CVE 	| Severity 	| Description 	| Authors 	|
 |:---:	|:--------:	|:-----------:	|---------	|
-|     	|          	|             	|         	|
+|   CVE-2022-1993   	|      High (8.1)      	|        Path Traversal vulnerability on the endpoint '/info/refs' in gogs/gogs       	|    @Sim4n6     	|
 |     	|          	|             	|         	|
 |     	|          	|             	|         	|
 
