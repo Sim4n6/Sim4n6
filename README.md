@@ -1,4 +1,4 @@
-Hi there 👋, 
+Hi 👋, 
 
 | CVE 	| Severity 	| Description 	| Authors 	|
 |:---:	|:--------:	|:-----------:	|---------	|
@@ -7,8 +7,7 @@ Hi there 👋,
 |     	|          	|             	|         	|
 
 
- - My little blog <https://sim4n6.gtsb.io>
- - Reach me via Twitter DMs [@Sim4n6](https://www.twitter.com/sim4n6). 
+ ✨ You can reach me via Twitter DMs [@Sim4n6](https://www.twitter.com/sim4n6). 
 
 <!--
 **Sim4n6/Sim4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
