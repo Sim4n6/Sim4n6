@@ -10,7 +10,8 @@ Hi 👋
 
  ✨ You can reach me via Twitter DMs [@Sim4n6](https://www.twitter.com/sim4n6).
  
- ![Twitter Follow](https://img.shields.io/twitter/follow/sim4n6?style=social)
+ ⚡ [![Twitter Follow](https://img.shields.io/twitter/follow/sim4n6?style=social)](https://img.shields.io/twitter/follow/sim4n6?style=social)
+ 
 
 <!--
 **Sim4n6/Sim4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
