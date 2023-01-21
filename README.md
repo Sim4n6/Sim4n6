@@ -10,7 +10,7 @@ Hi 👋
 
  ✨ You can reach me via Twitter DMs [@Sim4n6](https://www.twitter.com/sim4n6) ⚡
  
- PS: open for employment remote worldwide and for pentest missions. 
+ PS: <small>open for employment remote worldwide and for pentest missions.
 
 <!--
 **Sim4n6/Sim4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
