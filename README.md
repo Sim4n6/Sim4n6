@@ -8,6 +8,6 @@ Hi 👋
 |     	|          	|             	|
 
 
- ✨ You can reach me via Twitter DMs [@Sim4n6](https://www.twitter.com/sim4n6) ⚡
+ ✨ You can reach me via Gmail sim4n6 AT gmail.com ⚡
  
- 💬 I'm looking for a remote opportunity and maybe web app pentest mission ... 
+ 💬 Currently, I'm looking for a remote opportunity ...
