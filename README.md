@@ -8,6 +8,6 @@ Hi 👋
 |     	|          	|             	|
 
 
- ✨ You can reach me via Gmail sim4n6 AT gmail.com ⚡
+ ✨ You can reach me via Gmail **sim4n6 AT gmail.com** ⚡
  
  💬 Currently, I'm looking for a remote opportunity ...
