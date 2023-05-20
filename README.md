@@ -10,7 +10,7 @@ Hi 👋
 |  [CVE-2023-25802](https://github.com/hap-wi/roxy-wi/security/advisories/GHSA-qcmp-q5h3-784m)   	|     High     	|      Path Traversal vulnerability in hap-wi/roxy-wi         	|
 |   [CVE-2022-23522](https://github.com/mindsdb/mindsdb/security/advisories/GHSA-7x45-phmr-9wqp)  	|    High      	|        Arbitrary File Write when Extracting Tarballs retrieved from a remote location using `shutil.unpack_archive()`       	|
 |   [CVE-2023-30620](https://github.com/mindsdb/mindsdb/security/advisories/GHSA-2g5w-29q9-w6hx)  	|    High      	|         Arbitrary File Write when Extracting a Remotely retrieved Tarball using `Tarfile.extractall()` in mindsdb/mindsdb        	|
-|   [CVE-2023-31131]()  	|    --      	|         --        	|
+|   [CVE-2023-31131](https://github.com/greenplum-db/gpdb/security/advisories/GHSA-hgm9-2q42-c7f3)  	|    High      	|          Arbitrary File Write when Extracting Tarballs retrieved from a remote location using `shutil.unpack_archive()` in greenplum-db/gpdb        	|
 
 
 
