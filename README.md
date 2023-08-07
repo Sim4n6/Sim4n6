@@ -13,6 +13,7 @@ Hi 👋
 |   [CVE-2023-31131](https://github.com/greenplum-db/gpdb/security/advisories/GHSA-hgm9-2q42-c7f3)  	|    Medium      	|     Arbitrary File Write when Extracting Tarballs retrieved from a remote location using `shutil.unpack_archive()` in greenplum-db/gpdb        	|
 |   [CVE-2023-35932](https://github.com/tanghaibao/jcvi/security/advisories/GHSA-x49m-3cw7-gq5q)  	|    High      	|    Configuration Injection in tanghaibao/jcvi due to unsanitized user input     	|
 |   [GHSA-373w-rj84-pv6x](https://github.com/IncludeSecurity/safeurl-python/security/advisories/GHSA-373w-rj84-pv6x)  	|    Low    	|    Hostname blocklist does not block FQDNs in IncludeSecurity/safeurl-python 	|
+|   [CVE-2023-39911]()  	|    Medium    	|    ---  	|
 
 
 
