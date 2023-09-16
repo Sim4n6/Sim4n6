@@ -15,7 +15,7 @@ Hi 👋
 |   [GHSA-373w-rj84-pv6x](https://github.com/IncludeSecurity/safeurl-python/security/advisories/GHSA-373w-rj84-pv6x)  	|    Low    	|    Hostname blocklist does not block FQDNs in IncludeSecurity/safeurl-python 	|
 |   [CVE-2023-39911]()  	|    Medium    	|    ---  	|
 |   [GHSA-mgqj-hphf-9588](https://github.com/lockss/lockss-daemon/security/advisories/GHSA-mgqj-hphf-9588)  	|    Low    	|     A Post-Unicode Normalization Vulnerability  |
-|   [CVE-2023-41889](https://github.com/shirasagi/shirasagi/security/advisories/GHSA-xr45-c2jv-2v9r)  	|    Low    	|     Late-Unicode normalization vulnerability in shirasagi/shirasagi   	|
+|   [CVE-2023-41889](https://nvd.nist.gov/vuln/detail/CVE-2023-41889) 	|    Medium   	|     Late-Unicode normalization vulnerability in shirasagi/shirasagi   	|
 
 
  💬 I'm looking for a remote opportunity ...
