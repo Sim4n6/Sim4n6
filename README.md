@@ -14,7 +14,7 @@ Hi 👋
 |   [CVE-2023-35932](https://github.com/tanghaibao/jcvi/security/advisories/GHSA-x49m-3cw7-gq5q)  	|    High      	|    Configuration Injection in tanghaibao/jcvi due to unsanitized user input     	|
 |   [GHSA-373w-rj84-pv6x](https://github.com/IncludeSecurity/safeurl-python/security/advisories/GHSA-373w-rj84-pv6x)  	|    Low    	|    Hostname blocklist does not block FQDNs in IncludeSecurity/safeurl-python 	|
 |   [CVE-2023-39911]()  	|    Medium    	|    ---  	|
-|   [GHSA-mgqj-hphf-9588](https://github.com/lockss/lockss-daemon/security/advisories/GHSA-mgqj-hphf-9588)  	|    Low    	|     A Post-Unicode Normalization Vulnerability  |
+|   [[GHSA-mgqj-hphf-9588](https://github.com/lockss/lockss-daemon/security/advisories/GHSA-mgqj-hphf-9588)](https://nvd.nist.gov/vuln/detail/CVE-2023-42183)  	|    Low    	|     A Post-Unicode Normalization Vulnerability in lockss/lockss-daemon  |
 |   [CVE-2023-41889](https://nvd.nist.gov/vuln/detail/CVE-2023-41889) 	|    Medium   	|     Late-Unicode normalization vulnerability in shirasagi/shirasagi   	|
 
 
