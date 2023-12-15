@@ -17,9 +17,8 @@ Hi 👋
 |   [CVE-2023-42183](https://nvd.nist.gov/vuln/detail/CVE-2023-42183)  	|    Low    	|     A Post-Unicode Normalization Vulnerability in lockss/lockss-daemon  |
 |   [CVE-2023-41889](https://nvd.nist.gov/vuln/detail/CVE-2023-41889) 	|    Medium   	|     Late-Unicode normalization vulnerability in shirasagi/shirasagi   	|
 
-
- 💬 I'm looking for a remote opportunity ...
+ ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com) 
  
- ✨ **sim4n6 AT gmail.com** ⚡
+ 💬 By the way, I'm looking for a remote opportunity ... ⚡**sim4n6 AT gmail.com** ⚡
  
  
