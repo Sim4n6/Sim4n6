@@ -16,6 +16,7 @@ Hi 👋
 |   [CVE-2023-39911]()  	|    Medium    	|    ---  	|
 |   [CVE-2023-42183](https://nvd.nist.gov/vuln/detail/CVE-2023-42183)  	|    Low    	|     A Post-Unicode Normalization Vulnerability in lockss/lockss-daemon  |
 |   [CVE-2023-41889](https://nvd.nist.gov/vuln/detail/CVE-2023-41889) 	|    Medium   	|     Late-Unicode normalization vulnerability in shirasagi/shirasagi   	|
+|   [CVE-2023-52081](https://github.com/ewen-lbh/ffcss/security/advisories/GHSA-wpmx-564x-h2mh) 	|    Low   	| Late-Unicode normalization vulnerability in ewen-lbh/ffcss   	|
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
