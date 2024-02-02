@@ -20,6 +20,7 @@ Hi 👋
 |   [CVE-2024-21623](https://github.com/mehah/otclient/security/advisories/GHSA-q6gr-wc79-v589)   | Critical |  Arbitrary Expression Injection in github workflow leads to Command execution & leaking secrets |
 | CVE-2024-23343 | Medium | |
 | [CVE-2024-23826](https://github.com/spbu-se/spbu_se_site/security/advisories/GHSA-5vfc-v7hg-pvwm) | High |  Uploading an image with a specific filename causes a server-side DoS |
+|CVE-2024-2475| Critical | -- |
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
