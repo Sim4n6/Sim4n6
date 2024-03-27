@@ -20,7 +20,7 @@ Hi 👋
 |16 | CVE-2024-23343 | Medium | |
 |17 | [CVE-2024-23826](https://github.com/spbu-se/spbu_se_site/security/advisories/GHSA-5vfc-v7hg-pvwm) | High |  Uploading an image with a specific filename causes a server-side DoS |
 |18 |  CVE-2024-24759 | Critical | -- |
-|19 |  [CVE-2024-0081](https://github.com/NVIDIA/NeMo/security/advisories/GHSA-x392-p65g-4rxx) | High | Unicode use in a user-controlled filename may cause a server-side DoS in Nvidia/NeMo - [Nvidia security acknowledgement] (https://www.nvidia.com/en-us/security/acknowledgements/) | 
+|19 |  [CVE-2024-0081](https://github.com/NVIDIA/NeMo/security/advisories/GHSA-x392-p65g-4rxx) | High | Unicode use in a user-controlled filename may cause a server-side DoS in Nvidia/NeMo - [Nvidia security acknowledgement](https://www.nvidia.com/en-us/security/acknowledgements/) | 
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
