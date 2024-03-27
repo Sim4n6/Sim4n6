@@ -20,6 +20,7 @@ Hi 👋
 |16 | CVE-2024-23343 | Medium | |
 |17 | [CVE-2024-23826](https://github.com/spbu-se/spbu_se_site/security/advisories/GHSA-5vfc-v7hg-pvwm) | High |  Uploading an image with a specific filename causes a server-side DoS |
 |18 |  CVE-2024-24759 | Critical | -- |
+|19 |  CVE-2024-0081 | High | -- (Nvidia acknowledgement https://www.nvidia.com/en-us/security/acknowledgements/) | 
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
