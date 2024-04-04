@@ -22,9 +22,13 @@ Hi 👋
 |18 |  CVE-2024-24759 | Critical | -- |
 |19 |  [CVE-2024-0081](https://github.com/NVIDIA/NeMo/security/advisories/GHSA-x392-p65g-4rxx) | High | Unicode use in a user-controlled filename may cause a server-side DoS in Nvidia/NeMo - [Nvidia security acknowledgement](https://www.nvidia.com/en-us/security/acknowledgements/) | 
 
- ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
+ ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). Some of the articles already published :
+  - [Unicode characters to Bypass Security Checks ](https://sim4n6.beehiiv.com/p/unicode-characters-bypass-security-checks)
+  - [The One Million Unicode Denial Of Service Attack](https://sim4n6.beehiiv.com/p/one-million-unicode-denial-service-attack)
+  - [How CodeQL works: Summary](https://sim4n6.beehiiv.com/p/codeql-works-summary)
+  - [Arbitrary Configuration Injection](https://sim4n6.beehiiv.com/p/arbitrary-configuration-injection)
  
- 💬 By the way, I'm looking for a remote opportunity ... 
+ 💬 By the way, I'm looking for a 🇲🇦 based remote opportunity ... 
  
  ⚡**sim4n6 AT gmail.com** ⚡
  
