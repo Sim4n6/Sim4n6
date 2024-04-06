@@ -25,12 +25,15 @@ Hi 👋
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
  Some of the articles already published :
-  - [Unicode characters to Bypass Security Checks ](https://sim4n6.beehiiv.com/p/unicode-characters-bypass-security-checks)
-  - [The One Million Unicode Denial Of Service Attack](https://sim4n6.beehiiv.com/p/one-million-unicode-denial-service-attack)
-  - [How CodeQL works: Summary](https://sim4n6.beehiiv.com/p/codeql-works-summary)
-  - [Arbitrary Configuration Injection](https://sim4n6.beehiiv.com/p/arbitrary-configuration-injection)
  
- 💬 By the way, I'm looking for a 🇲🇦 based remote opportunity ... 
+ | N° | Subject | Publication Date |
+ |:--:	|:---:	|:--------:	|
+ | 1 | [Unicode characters to Bypass Security Checks ](https://sim4n6.beehiiv.com/p/unicode-characters-bypass-security-checks) | x|
+ | 2 | [The One Million Unicode Denial Of Service Attack](https://sim4n6.beehiiv.com/p/one-million-unicode-denial-service-attack) |x |
+ | 3 | [How CodeQL works: Summary](https://sim4n6.beehiiv.com/p/codeql-works-summary) |x | 
+ | 4 | [Arbitrary Configuration Injection](https://sim4n6.beehiiv.com/p/arbitrary-configuration-injection) | x |
+ 
+ 💬 By the way, I'm looking for a remote opportunity ... 
  
  ⚡**sim4n6 AT gmail.com** ⚡
  
