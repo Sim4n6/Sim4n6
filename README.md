@@ -22,7 +22,7 @@ Hi 👋
 |18 |  CVE-2024-24759 | Critical | -- |
 |19 |  [CVE-2024-0081](https://github.com/NVIDIA/NeMo/security/advisories/GHSA-x392-p65g-4rxx) | High | Unicode use in a user-controlled filename may cause a server-side DoS in Nvidia/NeMo - [Nvidia security acknowledgement](https://www.nvidia.com/en-us/security/acknowledgements/) | 
 |20 | [CVE-2024-32874]() | Critical | - |
-|21 | [GHSA-9gw7-hxgx-f6rv](https://github.com/certsocietegenerale/fame/security/advisories/GHSA-9gw7-hxgx-f6rv) | Low | Malicious Long Unicode filenames may cause an Application-level Denial of Service|
+|21 | [GHSA-9gw7-hxgx-f6rv](https://github.com/certsocietegenerale/fame/security/advisories/GHSA-9gw7-hxgx-f6rv) | Medium | Malicious Long Unicode filenames may cause an Application-level Denial of Service|
 
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
