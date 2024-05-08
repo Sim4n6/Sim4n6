@@ -35,6 +35,7 @@ Hi 👋
  | 2 | [The One Million Unicode Denial Of Service Attack](https://sim4n6.beehiiv.com/p/one-million-unicode-denial-service-attack) |x |
  | 3 | [How CodeQL works: Summary](https://sim4n6.beehiiv.com/p/codeql-works-summary) |x | 
  | 4 | [Arbitrary Configuration Injection](https://sim4n6.beehiiv.com/p/arbitrary-configuration-injection) | x |
+ | 5 | [Application-level Denial of Service using Unconstrained number](https://sim4n6.beehiiv.com/p/applicationlevel-denial-service-using-unconstrained-number) | x |
  
  💬 By the way, I'm looking for a remote opportunity ... 
  
