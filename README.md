@@ -24,6 +24,7 @@ Hi 👋
 |20 | [CVE-2024-32874](https://github.com/blakeblackshear/frigate/security/advisories/GHSA-w4h6-9wrp-v5jq#event-188171) | Medium | Malicious Long Unicode filenames may cause a Multiple Application-level Denial of Service  |
 |21 | [GHSA-9gw7-hxgx-f6rv](https://github.com/certsocietegenerale/fame/security/advisories/GHSA-9gw7-hxgx-f6rv) | Medium | Malicious Long Unicode filenames may cause an Application-level Denial of Service|
 | 22 | [CVE-2024-1211]() | Medium | Require confirmation before linking JWT identity on Gitlab [Blog](https://about.gitlab.com/releases/2024/05/08/patch-release-gitlab-16-11-2-released/) |
+| 23 | [CVE-2024-35231]() | High |  |
 
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
