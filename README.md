@@ -26,6 +26,7 @@ Hi 👋
 | 22 | [CVE-2024-1211]() | Medium | Require confirmation before linking JWT identity on Gitlab [Blog](https://about.gitlab.com/releases/2024/05/08/patch-release-gitlab-16-11-2-released/) |
 | 23 | [CVE-2024-35231](https://github.com/rack/rack-contrib/security/advisories/GHSA-8c8q-2xw3-j869#advisory-comment-102825) | High | Denial of Service due to the unconstrained value of the incoming "profiler_runs" parameter  |
 | 24 | [CVE-2024-45412](https://github.com/yeti-platform/yeti/security/advisories/GHSA-cwwm-pq9x-2cxv) | Medium | Potential Denial of Service due to the One Milion Unicode characters attack  |
+| 25 | [CVE-2024-8124](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-8124) | High| Denial of Service via sending a large glm_source parameter in GitLab |
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
