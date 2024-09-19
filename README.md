@@ -21,7 +21,7 @@ Hi 👋
 |17 | [CVE-2024-23826](https://github.com/spbu-se/spbu_se_site/security/advisories/GHSA-5vfc-v7hg-pvwm) | Medium |  Uploading an image with a specific filename causes a server-side DoS in spbu-se/spbu_se_site |
 |18 |  [CVE-2024-24759](https://github.com/mindsdb/mindsdb/security/advisories/GHSA-4jcv-vp96-94xr) | Critical |  Bypass SSRF Protection with DNS Rebinding in mindsdb/mindsdb |
 |19 |  [CVE-2024-0081](https://github.com/NVIDIA/NeMo/security/advisories/GHSA-x392-p65g-4rxx) | High | Unicode use in a user-controlled filename may cause a server-side DoS in Nvidia/NeMo - [Nvidia security acknowledgement](https://www.nvidia.com/en-us/security/acknowledgements/) | 
-|20 | [CVE-2024-32874](https://github.com/blakeblackshear/frigate/security/advisories/GHSA-w4h6-9wrp-v5jq#event-188171) | Critical | Malicious Long Unicode filenames may cause a Multiple Application-level Denial of Service  |
+|20 | [CVE-2024-32874](https://github.com/blakeblackshear/frigate/security/advisories/GHSA-w4h6-9wrp-v5jq#event-188171) | Medium | Malicious Long Unicode filenames may cause a Multiple Application-level Denial of Service  |
 |21 | [GHSA-9gw7-hxgx-f6rv](https://github.com/certsocietegenerale/fame/security/advisories/GHSA-9gw7-hxgx-f6rv) | Medium | Malicious Long Unicode filenames may cause an Application-level Denial of Service|
 | 22 | [CVE-2024-1211]() | Medium | Require confirmation before linking JWT identity on Gitlab [Blog](https://about.gitlab.com/releases/2024/05/08/patch-release-gitlab-16-11-2-released/) |
 | 23 | [CVE-2024-35231](https://github.com/rack/rack-contrib/security/advisories/GHSA-8c8q-2xw3-j869#advisory-comment-102825) | High | Denial of Service due to the unconstrained value of the incoming "profiler_runs" parameter  |
