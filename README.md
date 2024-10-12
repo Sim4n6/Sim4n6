@@ -27,7 +27,7 @@ Hi 👋
 | 23 | [CVE-2024-35231](https://github.com/rack/rack-contrib/security/advisories/GHSA-8c8q-2xw3-j869#advisory-comment-102825) | High | Denial of Service due to the unconstrained value of the incoming "profiler_runs" parameter  |
 | 24 | [CVE-2024-45412](https://github.com/yeti-platform/yeti/security/advisories/GHSA-cwwm-pq9x-2cxv) | Medium | Potential Denial of Service due to the One Milion Unicode characters attack  |
 | 25 | [CVE-2024-8124](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-8124) | High| Denial of Service via sending a large glm_source parameter in GitLab |
-| 26 | | Critical ||
+| 26 | [CVE-2024-47830](https://github.com/makeplane/plane/security/advisories/GHSA-39gx-38xf-c348)| Critical |  Server side request forgery via /_next/image endpoint on makeplane/plane |
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
