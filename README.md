@@ -29,6 +29,7 @@ Hi 👋
 | 25 | [CVE-2024-8124](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-8124) | High| Denial of Service via sending a large glm_source parameter in GitLab |
 | 26 | [CVE-2024-47830](https://github.com/makeplane/plane/security/advisories/GHSA-39gx-38xf-c348)| Critical |  Server side request forgery via /_next/image endpoint on makeplane/plane |
 | 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | Denial of Service due to Unbounded Symbol Creation via the scopes parameter in a Personal Access Token|
+| CVE-2024-13054 | Medium ||
 
  ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
  
