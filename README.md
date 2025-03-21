@@ -31,20 +31,6 @@ Hi 👋
 | 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | Denial of Service due to Unbounded Symbol Creation via the scopes parameter in a Personal Access Token|
 | 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | Denial of Service Due to Inefficient Processing of Untrusted Input |
 
- ✨ Feel free to subscribe to my little newsletter [sim4n6.beehiiv.com](https://sim4n6.beehiiv.com). 
- 
- Some of the articles already published :
- 
- | N° | Subject | Publication Date |
- |:--:	|:---:	|:--------:	|
- | 1 | [Unicode characters to Bypass Security Checks ](https://sim4n6.beehiiv.com/p/unicode-characters-bypass-security-checks) | x|
- | 2 | [The One Million Unicode Denial Of Service Attack](https://sim4n6.beehiiv.com/p/one-million-unicode-denial-service-attack) |x |
- | 3 | [How CodeQL works: Summary](https://sim4n6.beehiiv.com/p/codeql-works-summary) |x | 
- | 4 | [Arbitrary Configuration Injection](https://sim4n6.beehiiv.com/p/arbitrary-configuration-injection) | x |
- | 5 | [Application-level Denial of Service using Unconstrained number](https://sim4n6.beehiiv.com/p/applicationlevel-denial-service-using-unconstrained-number) | x |
- 
- 💬 By the way, I'm looking for a remote opportunity ... 
- 
- ⚡**sim4n6 AT gmail.com** ⚡
+ ✨ ⚡
  
  
