@@ -28,7 +28,7 @@ Hi 👋
 | 24 | [CVE-2024-45412](https://github.com/yeti-platform/yeti/security/advisories/GHSA-cwwm-pq9x-2cxv) | Medium | Potential Denial of Service due to the One Milion Unicode characters attack  |
 | 25 | [CVE-2024-8124](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-8124) | High| Denial of Service via sending a large glm_source parameter in GitLab |
 | 26 | [CVE-2024-47830](https://github.com/makeplane/plane/security/advisories/GHSA-39gx-38xf-c348)| Critical |  Server side request forgery via /_next/image endpoint on makeplane/plane |
-| 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | Denial of Service due to Unbounded Symbol Creation via the scopes parameter in a Personal Access Token in Gitlab EE|
+| 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | Denial of Service due to Unbounded Object Creation via the scopes parameter in a Personal Access Token in Gitlab EE|
 | 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | Denial of Service Due to Inefficient Processing of Untrusted Input |
 | 29 | [CVE-2025-31116](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-fcfq-m8p6-gw56) | Medium | SSRF on assetlinks_check with DNS Rebinding |
 
