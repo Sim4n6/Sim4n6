@@ -31,6 +31,7 @@ Hi 👋
 | 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | Denial of Service due to Unbounded Object Creation via the scopes parameter in a Personal Access Token in Gitlab EE|
 | 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | Denial of Service Due to Inefficient Processing of Untrusted Input |
 | 29 | [CVE-2025-31116](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-fcfq-m8p6-gw56) | Medium | SSRF on assetlinks_check with DNS Rebinding |
+| 30 | [CVE-2025-0549](https://about.gitlab.com/releases/2025/05/07/patch-release-gitlab-17-11-2-released/#partial-bypass-for-device-oauth-flow-using-cross-window-forgery) | Medium | Partial Bypass for Device OAuth flow using Cross Window Forgery |
 
  ✨ ⚡
  
