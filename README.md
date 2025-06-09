@@ -32,7 +32,7 @@ Hi 👋
 | 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | Denial of Service Due to Inefficient Processing of Untrusted Input |
 | 29 | [CVE-2025-31116](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-fcfq-m8p6-gw56) | Medium | SSRF on assetlinks_check with DNS Rebinding |
 | 30 | [CVE-2025-0549](https://about.gitlab.com/releases/2025/05/07/patch-release-gitlab-17-11-2-released/#partial-bypass-for-device-oauth-flow-using-cross-window-forgery) | Medium | Partial Bypass for Device OAuth flow using Cross Window Forgery |
-| 31 | [GHSA-6p2v-wcv8-8j6w](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) | Medium |  Arbitrary File Read by Copy as a Curl command in a Caido Plugin Exploit Generator |
+| 31 | [GHSA-6p2v-wcv8-8j6w](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) | Medium |  Arbitrary File Read by Copy as a Curl command in a Caido Plugin Exploit Generator - [advisory](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) |
 
 
  ✨ ⚡
