@@ -1,5 +1,3 @@
-Hi 👋
-
 |N°| CVE 	| Severity 	| Description 	|
 |:--:	|:---:	|:--------:	|:-----------:	|
 |1 |   [CVE-2022-1993](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5)   	|      High     	|        Path Traversal vulnerability on the endpoint '/info/refs' in Gogs (A self-hosted Git service) - [advisory](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5) 	|
@@ -35,9 +33,3 @@ Hi 👋
 | 31 | [GHSA-6p2v-wcv8-8j6w](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) | Medium |  Arbitrary File Read by Copy as a Curl command in a Caido Plugin Exploit Generator - [advisory](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) |
 |32| [CVE-2025-0673](https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released/?utm_medium=email&utm_source=marketo&utm_campaign=security+release+email&June+11+2025#cve-2025-0673---denial-of-service-impacts-gitlab-ceee) | High |an attacker can trigger an infinite redirect loop, potentially leading to a denial of service condition in Gitlab EE.  |
 |33|CVE-2025-52481| Low | |
-
-
-
- ✨ ⚡
- 
- 
