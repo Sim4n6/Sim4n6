@@ -27,7 +27,7 @@
 | 25 | [CVE-2024-8124](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-8124) | High| Denial of Service via sending a large glm_source parameter in [GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/480533) |
 | 26 | [CVE-2024-47830](https://github.com/makeplane/plane/security/advisories/GHSA-39gx-38xf-c348)| Critical |  Server side request forgery via /_next/image endpoint on makeplane/plane |
 | 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | Denial of Service due to Unbounded Object Creation via the scopes parameter in a Personal Access Token in Gitlab EE|
-| 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | Denial of Service Due to Inefficient Processing of Untrusted Input |
+| 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | Denial of Service Due to Inefficient Processing of Untrusted Input on GitLab EE |
 | 29 | [CVE-2025-31116](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-fcfq-m8p6-gw56) | Medium | SSRF on assetlinks_check with DNS Rebinding |
 | 30 | [CVE-2025-0549](https://about.gitlab.com/releases/2025/05/07/patch-release-gitlab-17-11-2-released/#partial-bypass-for-device-oauth-flow-using-cross-window-forgery) | Medium | Partial Bypass for Device OAuth flow using Cross Window Forgery |
 | 31 | [GHSA-6p2v-wcv8-8j6w](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) | Medium |  Arbitrary File Read by Copy as a Curl command in a Caido Plugin Exploit Generator - [advisory](https://github.com/stealthcopter/CaidoExploitGenerator/security/advisories/GHSA-6p2v-wcv8-8j6w) |
