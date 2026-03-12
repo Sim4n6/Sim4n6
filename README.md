@@ -1,18 +1,8 @@
-# sim4n6
-
-Security Researcher focused on vulnerability discovery through responsible disclosure and bug bounty programs.
-
-Specializing in **Path Traversal**, **SSRF**, **Denial of Service (Unicode/ReDoS)**, **Arbitrary File Write**, and **CI/CD Security**.
-
-## Stats
-
 ![CVEs](https://img.shields.io/badge/Vulnerabilities%20Reported-37-blue)
 ![Critical](https://img.shields.io/badge/Critical-4-critical)
 ![High](https://img.shields.io/badge/High-10-orange)
 ![Medium](https://img.shields.io/badge/Medium-19-yellow)
 ![Low](https://img.shields.io/badge/Low-4-lightgrey)
-
-Notable targets: **GitLab**, **MindsDB**, **NVIDIA**, **Gogs**, **Frigate**, **Plane**
 
 ---
 
