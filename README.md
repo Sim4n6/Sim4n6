@@ -32,7 +32,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>2024 (15)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
@@ -55,7 +55,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>2023 (10)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
@@ -74,7 +74,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>2022 (3)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
