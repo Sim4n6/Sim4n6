@@ -13,7 +13,7 @@
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
-| 35 | CVE-2026-1388 | High | GitLab CE/EE | Regular Expression Denial of Service issue in GitLab merge requests - [GitLab Patch Release](https://about.gitlab.com/releases/2026/02/25/patch-release-gitlab-18-9-1-released/#cve-2026-1388---regular-expression-denial-of-service-issue-in-gitlab-merge-requests-impacts-gitlab-ceee) |
+| 35 | [CVE-2026-1388](https://nvd.nist.gov/vuln/detail/CVE-2026-1388) | High | GitLab CE/EE | Regular Expression Denial of Service issue in GitLab merge requests - [GitLab Patch Release](https://about.gitlab.com/releases/2026/02/25/patch-release-gitlab-18-9-1-released/#cve-2026-1388---regular-expression-denial-of-service-issue-in-gitlab-merge-requests-impacts-gitlab-ceee) |
 
 </details>
 
