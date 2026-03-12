@@ -1,12 +1,11 @@
+## CVEs & Security Advisories
+
 ![CVEs](https://img.shields.io/badge/Vulnerabilities%20Reported-37-blue)
 ![Critical](https://img.shields.io/badge/Critical-4-critical)
 ![High](https://img.shields.io/badge/High-10-orange)
 ![Medium](https://img.shields.io/badge/Medium-19-yellow)
 ![Low](https://img.shields.io/badge/Low-4-lightgrey)
 
----
-
-## CVEs & Security Advisories
 
 <details open>
 <summary><strong>2026 (1)</strong></summary>
