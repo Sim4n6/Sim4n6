@@ -76,13 +76,6 @@
 <details open>
 <summary><strong>2022 (3)</strong></summary>
 
-  # In Sum
-  
-  Security Researcher focused on vulnerability discovery through responsible disclosure and bug bounty programs.                                              
-  
-  Specializing in **Path Traversal**, **SSRF**, **Denial of Service (Unicode/ReDoS)**, **Arbitrary File Write**, and **CI/CD Security**.                      
-  
-
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
 | 3 | [CVE-2022-23530](https://github.com/advisories/GHSA-78m5-jpmf-ch7v) | Low | GuardDog (DataDog) | GuardDog vulnerable to arbitrary file write when scanning a specially-crafted remote PyPI package - [advisory](https://github.com/advisories/GHSA-78m5-jpmf-ch7v) |
@@ -90,3 +83,11 @@
 | 1 | [CVE-2022-1993](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5) | High | Gogs | Path Traversal vulnerability on the endpoint '/info/refs' - [advisory](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5) |
 
 </details>
+
+
+# In Sum
+  
+Security Researcher focused on vulnerability discovery through responsible disclosure and bug bounty programs.                                              
+  
+Specializing in **Path Traversal**, **SSRF**, **Denial of Service (Unicode/ReDoS)**, **Arbitrary File Write**, and **CI/CD Security**.                      
+  
