@@ -36,7 +36,6 @@
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
-| 29 | [Hall of Fame](https://dev.to/security) | Medium | DEV.to | Denial of Service Due to Inefficient Processing of Unicode Input |
 | 28 | [CVE-2024-13054](https://nvd.nist.gov/vuln/detail/CVE-2024-13054) | Medium | GitLab EE | Denial of Service Due to Inefficient Processing of Untrusted Input |
 | 27 | [CVE-2024-12379](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-12379) | Medium | GitLab EE | Denial of Service due to Unbounded Object Creation via the scopes parameter in a Personal Access Token |
 | 26 | [CVE-2024-47830](https://github.com/makeplane/plane/security/advisories/GHSA-39gx-38xf-c348) | Critical | Plane | Server side request forgery via /_next/image endpoint |
