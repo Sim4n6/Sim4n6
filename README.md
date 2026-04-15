@@ -8,7 +8,7 @@
 
 
 <details open>
-<summary><strong>2026 (1)</strong></summary>
+<summary><strong>2026 (2)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
