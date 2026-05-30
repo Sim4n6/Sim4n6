@@ -18,7 +18,7 @@
 </details>
 
 <details open>
-<summary><strong>2025 (8)</strong></summary>
+<summary><strong>2025 (7)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-<summary><strong>2024 (15)</strong></summary>
+<summary><strong>2024 (14)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
@@ -55,7 +55,7 @@
 </details>
 
 <details open>
-<summary><strong>2023 (10)</strong></summary>
+<summary><strong>2023 (11)</strong></summary>
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
@@ -85,9 +85,4 @@
 </details>
 
 
-# In Sum
-  
-Security Researcher focused on vulnerability discovery through responsible disclosure and bug bounty programs.                                              
-  
-Specializing in **Path Traversal**, **SSRF**, **Denial of Service (Unicode/ReDoS)**, **Arbitrary File Write**, and **CI/CD Security**.                      
   
