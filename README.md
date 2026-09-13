@@ -78,7 +78,7 @@
 
 | N° | CVE | Severity | Target | Description |
 |:--:|:---:|:--------:|:------:|:-----------:|
-| 4 | [huntr-309725a2](https://huntr.com/bounties/309725a2-bfc9-4ef3-a4c1-360a9f6b890b) | Low | scikit-learn | Potential TarSlip (CWE-59 Link Following) when extracting a remote archive without checksum verification - [bounty](https://huntr.com/bounties/309725a2-bfc9-4ef3-a4c1-360a9f6b890b) |
+| 4 | [huntr-309725a2](https://huntr.com/bounties/309725a2-bfc9-4ef3-a4c1-360a9f6b890b) | Low | scikit-learn | Potential TarSlip (CWE-59 Link Following) when extracting a remote archive without checksum verification - [huntr](https://huntr.com/bounties/309725a2-bfc9-4ef3-a4c1-360a9f6b890b) |
 | 3 | [CVE-2022-23530](https://github.com/advisories/GHSA-78m5-jpmf-ch7v) | Low | GuardDog (DataDog) | GuardDog vulnerable to arbitrary file write when scanning a specially-crafted remote PyPI package - [advisory](https://github.com/advisories/GHSA-78m5-jpmf-ch7v) |
 | 2 | [CVE-2022-3607](https://huntr.dev/bounties/2d1db3c9-93e8-4902-a55b-5ea53c22aa11/) | Medium | OctoPrint | ZipSlip Symlink variant allows to read any file within OctoPrint Box |
 | 1 | [CVE-2022-1993](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5) | High | Gogs | Path Traversal vulnerability on the endpoint '/info/refs' - [advisory](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5) |
