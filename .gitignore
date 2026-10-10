@@ -1,0 +1,5 @@
+# Local tool artifacts
+.claude/
+.playwright-mcp/
+.ssh_mcp_audit.jsonl
+CVE_URLs.md
